@@ -27,7 +27,7 @@ endog_para_jie  % generates parameters from data and exogenous parameters
 basic_results_jie
 
 
-
+% test test test
 
 
 %[prices_total.neutral, real_wages.neutral, gini.neutral, share_y.neutral, trade_gdp.neutral, share_trade_x.neutral, outputs_z.neutral]=...
