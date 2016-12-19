@@ -1,5 +1,5 @@
 %------------------------------------
-% Biavaschi & Elsner
+% Costanza Biavaschi & Benjamin Elsner
 % Let's be selective about migrant self-selection
 % JIE revisions; Mexico only; integrated trade model
 %------------------------------------
