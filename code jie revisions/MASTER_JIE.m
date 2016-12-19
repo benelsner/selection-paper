@@ -26,6 +26,7 @@ endog_para_jie  % generates parameters from data and exogenous parameters
 % SOLVE MODEL
 basic_results_jie
 
+% test
 
 %[prices_total.neutral, real_wages.neutral, gini.neutral, share_y.neutral, trade_gdp.neutral, share_trade_x.neutral, outputs_z.neutral]=...
     %sel_master(beta, sigma, theta, tau, skilldist_base.neutral, popul_base, prod_base, ret_y, ret_x, fc_base);
